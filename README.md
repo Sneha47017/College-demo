@@ -1,3 +1,4 @@
 # College-demo
 This is my first college project
-Authhor:- Sneha
+<br>
+Author:- Sneha
